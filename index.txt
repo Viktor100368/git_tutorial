@@ -1,8 +1,0 @@
-<html>
-<head>
-<titile>document1</title>
-</head>
-<body>
-</body>
-</html>
-
